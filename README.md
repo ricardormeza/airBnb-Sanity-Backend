@@ -1,9 +1,22 @@
 # Sanity Clean Content Studio
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This repository supports kubowania's video on how to make the backend with sanity.io
 
-Now you can do the following things:
+Topics we will be touching on:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+Topics we will be touching on:
+* Schemas
+* Types
+* Content Management Systems
+* Geolocation
+* Google Maps API
+* Clustering Markers
+* Next.js
+* ServerSideProps
+* Sanity SDK
+* React Hooks
+
+Thanks to:
+Twitter: https://twitter.com/ania_kubow \
+
+Muchas gracias por el gran video.
